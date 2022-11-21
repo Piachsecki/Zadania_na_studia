@@ -1,2 +1,4 @@
-package Laboratorium1.zad1.service;public interface PersonConsoleApp {
+package Laboratorium1.zad1.service;
+
+public interface PersonConsoleApp {
 }
